@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Complaint Resolver Core",
+  "description": "An autonomous multi-agent system designed to categorize, prioritize, and resolve customer complaints with persistent state tracking and risk assessment.",
+  "requestFramePermissions": []
+}
